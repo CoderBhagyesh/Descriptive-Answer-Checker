@@ -8,7 +8,7 @@ $ git clone https://github.com/CoderBhagyesh/descriptive-answer-checker.git
 $ cd descriptive-answer-checker
 $ npm install
 ```
-This app requires chatGPT API credentials from OpenAI, which can be obtained by
+This app requires openAI API credentials, which can be obtained by
 navigating to [https://platform.openai.com/account/api-keys] and then set up account
 and generate API_KEY.
 
